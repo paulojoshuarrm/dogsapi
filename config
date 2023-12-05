@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "dogsapi"]
+	url = https://github.com/paulojoshuarrm/dogsapi.git
+	fetch = +refs/heads/*:refs/remotes/dogsapi/*
